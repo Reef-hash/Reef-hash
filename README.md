@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reef</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://github.com/Reef-hash" alt="reef-hash" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reef-hash" alt="reef-hash" /></a> </p>
+<p align="left"> <img src="https://github.com/Reef-hash" alt="Reef-hash" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@reef565err" target="blank"><img src="https://img.shields.io/twitter/follow/@reef565err?logo=twitter&style=for-the-badge" alt="@reef565err" /></a> </p>
 
