@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Reef</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Zarif</h1>
+<h3 align="center">A passionate C++ learner & ICT trader, building my coding journey step by step</h3>
+
+- 🔭 **Currently focusing on:** C++ fundamentals & algorithm practice
+- 🌱 **Learning path:** Data structures, OOP, STL, trading systems
+- 👯 **Looking to collaborate on:** Coding projects and learning challenges
+- 💬 **Ask me about:** ICT trading, Git, C++, problem-solving
 
 <p align="left"> <img src="https://github.com/Reef-hash" alt="Reef-hash" /> </p>
 
