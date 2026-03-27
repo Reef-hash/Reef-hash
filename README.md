@@ -21,13 +21,13 @@
 
 ---
 
-### 🛠️ Tools (Learning / Exploring)
-<p align="left"> 
+### 🛠️ Tools
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://img.shields.io/badge/Ghidra-red?style=for-the-badge&logo=gnu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cheat%20Engine-grey?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IDA%20Pro-black?style=for-the-badge&logo=hackthebox&logoColor=green"/>
 </p>
-
-- Ghidra  
-- Cheat Engine  
 
 ---
 
@@ -43,4 +43,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Reef-hash&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reef-hash&theme=tokyonight" />
+</p>
+
+---
+
+### 📌 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reef-hash&layout=compact&theme=tokyonight" />
 </p
