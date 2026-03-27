@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zarif aka Reef</h1>
+<h1 align="center">Hi 👋, I'm Zarif</h1>
 <h3 align="center">Low-Level Programming & Reverse Engineering Enthusiast</h3>
 
 <p align="center">
@@ -26,6 +26,9 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
+- Ghidra  
+- Cheat Engine  
+
 ---
 
 ### 🎯 Focus
@@ -38,6 +41,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Reef-hash&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reef-hash&theme=tokyonight" />
 </p
