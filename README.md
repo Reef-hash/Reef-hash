@@ -1,46 +1,59 @@
 <h1 align="center">Hi 👋, I'm Zarif</h1>
-<h3 align="center">Low-Level Programming & Reverse Engineering Enthusiast</h3>
+<h3 align="center">Learning Low-Level Programming & Reverse Engineering</h3>
 
 <p align="center">
-  Discipline is non-negotiable.
+  <em>Discipline is non-negotiable.</em>
 </p>
 
 ---
 
 ### 🧠 About Me
-- 🔍 Focused on low-level programming & system internals
-- ⚙️ Interested in reverse engineering & binary analysis
-- 🚀 Currently building strong fundamentals from scratch
+- 🔍 Exploring low-level programming & system internals
+- ⚙️ Learning reverse engineering & binary analysis fundamentals
+- 🚀 Building foundational knowledge in systems programming
 
 ---
 
-### 💻 Languages
-<p align="left"> 
-  <img src="https://skillicons.dev/icons?i=cpp,c,linux" />
+### 💻 Languages & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,linux" />
 </p>
 
 ---
 
-### 🛠️ Tools
+### 🛠️ Tools I'm Learning
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
   <img src="https://img.shields.io/badge/Ghidra-red?style=for-the-badge&logo=gnu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cheat%20Engine-grey?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IDA%20Pro-black?style=for-the-badge&logo=hackthebox&logoColor=green"/>
+  <img src="https://img.shields.io/badge/GDB-black?style=for-the-badge&logo=gnu&logoColor=white"/>
 </p>
 
 ---
 
-### 🎯 Focus
-- Memory & Pointers  
-- System-Level Concepts  
-- Assembly (x86/x64)  
-- Debugging & Disassembly  
+### 🎯 Currently Learning
+- Memory management & pointers  
+- Basic assembly (x86/x64)  
+- Debugging techniques  
+- Binary analysis fundamentals  
 
 ---
 
-### 📊 GitHub Stats
+### 📚 Learning Resources
+- System-level programming concepts
+- Reverse engineering principles
+- Low-level debugging
+
+---
+
+### 🔗 Connect
+<p align="left">
+  <a href="https://github.com/Reef-hash" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reef-hash&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reef-hash&layout=compact&theme=tokyonight" />
-</p
+  <em>Always learning, always improving.</em>
+</p>
